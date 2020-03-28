@@ -1,0 +1,4 @@
+# 設定
+1, 以下の二つに同じパスワードを設定する
+WORDPRESS_DB_PASSWORD
+MYSQL_ROOT_PASSWORD
