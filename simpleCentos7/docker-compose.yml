@@ -1,0 +1,9 @@
+version: '3'
+services:
+  php-apache:
+    image: php:7.4-apache
+    container_name: php7
+    ports:
+      - 80:80
+    volumes:
+      - /Users/igakishusei/Documents/03,study/01,php/dotinstall/phalcon:/var/www/html
